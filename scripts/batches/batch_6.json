@@ -1,0 +1,452 @@
+[
+  {
+    "text": "What is the capital city of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which continent is the driest inhabited continent on Earth?",
+    "options": ["Africa", "Australia", "South America", "Asia"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the smallest country in the world by land area?",
+    "options": ["Monaco", "Nauru", "San Marino", "Vatican City"],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The Mariana Trench, the deepest part of the world's oceans, is located in which ocean?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which European country is divided into regions called cantons?",
+    "options": ["Switzerland", "Belgium", "France", "Germany"],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who was the first woman to win a Nobel Prize?",
+    "options": ["Mother Teresa", "Marie Curie", "Rosalind Franklin", "Dorothy Hodgkin"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "In what year did the Titanic sink?",
+    "options": ["1912", "1905", "1915", "1920"],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which empire was ruled by Genghis Khan?",
+    "options": ["Roman Empire", "Ottoman Empire", "Mongol Empire", "Byzantine Empire"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The Magna Carta was signed by which English King in 1215?",
+    "options": ["King Henry VIII", "King Richard the Lionheart", "King John", "King Edward I"],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
+    "options": ["Apollo 1", "Sputnik 1", "Explorer 1", "Vostok 1"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the chemical symbol for gold?",
+    "options": ["Go", "Gd", "Au", "Ag"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which planet in our solar system has the most moons?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Platinum"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What force keeps the planets in orbit around the sun?",
+    "options": ["Magnetism", "Gravity", "Friction", "Electromagnetism"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who is credited with proposing the theory of general relativity?",
+    "options": ["Isaac Newton", "Nikola Tesla", "Albert Einstein", "Stephen Hawking"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which pop star is known as the 'Material Girl'?",
+    "options": ["Britney Spears", "Madonna", "Lady Gaga", "Katy Perry"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the highest-grossing film of all time (as of 2023, unadjusted for inflation)?",
+    "options": ["Avengers: Endgame", "Avatar", "Titanic", "Star Wars: The Force Awakens"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who wrote the 'Harry Potter' book series?",
+    "options": ["J.R.R. Tolkien", "C.S. Lewis", "J.K. Rowling", "George R.R. Martin"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "In the Marvel Cinematic Universe, what is the name of Thor's enchanted hammer?",
+    "options": ["Stormbreaker", "Gungnir", "Mjolnir", "Aegis"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which video game franchise features a character named Master Chief?",
+    "options": ["Call of Duty", "Destiny", "Gears of War", "Halo"],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which country has won the most FIFA Men's World Cup titles?",
+    "options": ["Germany", "Italy", "Argentina", "Brazil"],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "In tennis, what term is used for a score of zero?",
+    "options": ["Null", "Love", "Zero", "Blank"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The Olympic Games originated in which ancient country?",
+    "options": ["Rome", "Egypt", "Greece", "Persia"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who holds the world record for the men's 100-meter sprint?",
+    "options": ["Tyson Gay", "Yohan Blake", "Usain Bolt", "Carl Lewis"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "How many players are there on a standard baseball team during play?",
+    "options": ["9", "10", "11", "8"],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the longest river in the world?",
+    "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which European city is known as the 'City of Canals'?",
+    "options": ["Amsterdam", "Venice", "Bruges", "St. Petersburg"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mount Everest is located in which mountain range?",
+    "options": ["Andes", "Alps", "Himalayas", "Rockies"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the capital of Canada?",
+    "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which country has the most natural lakes in the world?",
+    "options": ["USA", "Russia", "Canada", "Finland"],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Who was the first President of the United States?",
+    "options": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The French Revolution began in which year?",
+    "options": ["1789", "1776", "1812", "1648"],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which ancient civilization built the Machu Picchu complex?",
+    "options": ["Aztec", "Maya", "Inca", "Olmec"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What was the name of the ship that brought the Pilgrims to America in 1620?",
+    "options": ["Santa Maria", "Mayflower", "Endeavour", "Discovery"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which leader was known as the 'Maid of Orleans'?",
+    "options": ["Marie Antoinette", "Joan of Arc", "Catherine de' Medici", "Eleanor of Aquitaine"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Ribosome", "Mitochondria", "Chloroplast"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "At what temperature are Celsius and Fahrenheit equal?",
+    "options": ["-40", "0", "32", "100"],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the most abundant gas in the Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who developed the polio vaccine?",
+    "options": ["Jonas Salk", "Alexander Fleming", "Louis Pasteur", "Edward Jenner"],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the process by which plants make their food called?",
+    "options": ["Respiration", "Photosynthesis", "Transpiration", "Fermentation"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which band was famously composed of John, Paul, George, and Ringo?",
+    "options": ["The Rolling Stones", "The Who", "The Beatles", "Pink Floyd"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "In the television show 'Friends', what is the name of the coffee shop?",
+    "options": ["Central Perk", "Monk's Diner", "MacLaren's Pub", "The Peach Pit"],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who won the first season of 'American Idol'?",
+    "options": ["Carrie Underwood", "Kelly Clarkson", "Ruben Studdard", "Fantasia Barrino"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which artist painted 'The Starry Night'?",
+    "options": ["Pablo Picasso", "Claude Monet", "Vincent van Gogh", "Salvador Dali"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the name of the fictional continent where 'Game of Thrones' primarily takes place?",
+    "options": ["Essos", "Middle-earth", "Westeros", "Narnia"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which sport uses a shuttlecock?",
+    "options": ["Table Tennis", "Squash", "Badminton", "Tennis"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The Tour de France is a famous race in which sport?",
+    "options": ["Marathon running", "Motorcycle racing", "Bicycle racing", "Auto racing"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "In which city were the first modern Olympic Games held in 1896?",
+    "options": ["Paris", "London", "Athens", "Rome"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who is often considered the greatest basketball player of all time, wearing jersey number 23 for the Chicago Bulls?",
+    "options": ["LeBron James", "Kobe Bryant", "Magic Johnson", "Michael Jordan"],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "In what game is 'checkmate' the winning move?",
+    "options": ["Checkers", "Backgammon", "Chess", "Go"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  }
+]

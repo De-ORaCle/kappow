@@ -1,0 +1,452 @@
+[
+  {
+    "text": "What is the smallest country in Africa by land area?",
+    "options": ["Seychelles", "Sao Tome and Principe", "Mauritius", "Comoros"],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The Zambezi River flows into which ocean?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Southern Ocean", "Red Sea"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which of these cities is NOT in South Africa?",
+    "options": ["Pretoria", "Durban", "Bulawayo", "Bloemfontein"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the capital of Algeria?",
+    "options": ["Oran", "Constantine", "Algiers", "Annaba"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mount Kenya is an extinct volcano. True or false?",
+    "options": ["True", "False"],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who was the emperor of Ethiopia from 1930 to 1974?",
+    "options": ["Menelik II", "Haile Selassie", "Tewodros II", "Yohannes IV"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The kingdom of Kush was located in which modern-day country?",
+    "options": ["Egypt", "Sudan", "Ethiopia", "Somalia"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What was the name of the meeting where European powers partitioned Africa?",
+    "options": ["Treaty of Versailles", "Congress of Vienna", "Berlin Conference", "Yalta Conference"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who was the first president of South Africa elected in a fully representative democratic election?",
+    "options": ["F.W. de Klerk", "Thabo Mbeki", "Nelson Mandela", "Jacob Zuma"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The city of Timbuktu was an important center of trade and Islamic learning in which empire?",
+    "options": ["Ghana Empire", "Mali Empire", "Songhai Empire", "Kanem-Bornu Empire"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which of these animals is NOT native to Africa?",
+    "options": ["Giraffe", "Tiger", "Lion", "Zebra"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the fastest land animal in the world?",
+    "options": ["Lion", "Leopard", "Cheetah", "Springbok"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which species of rhinoceros is more commonly found in Africa?",
+    "options": ["Javan Rhinoceros", "Indian Rhinoceros", "Sumatran Rhinoceros", "White Rhinoceros"],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The Okavango Delta, famous for its wildlife, is located in which country?",
+    "options": ["Zambia", "Zimbabwe", "Botswana", "Namibia"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which bird is known for its large size and inability to fly?",
+    "options": ["Penguin", "Ostrich", "Emu", "Kiwi"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who is the Nigerian author of 'Purple Hibiscus' and 'Americanah'?",
+    "options": ["Chinua Achebe", "Wole Soyinka", "Chimamanda Ngozi Adichie", "Ben Okri"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the name of the popular music genre from South Africa characterized by deep house beats and jazz samples?",
+    "options": ["Kwaito", "Amapiano", "Gqom", "Afrobeat"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which film won the Academy Award for Best Foreign Language Film in 2005, making it the first South African film to do so?",
+    "options": ["Tsotsi", "District 9", "Yesterday", "Invictus"],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Who is the Senegalese-American singer known for hits like 'Smack That' and 'Don't Matter'?",
+    "options": ["Akon", "Ne-Yo", "Usher", "Chris Brown"],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which traditional garment is widely worn by men in West Africa?",
+    "options": ["Dashiki", "Kente", "Agbada", "Djellaba"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which country hosted the 2010 FIFA World Cup?",
+    "options": ["Egypt", "Morocco", "South Africa", "Nigeria"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who is the Ivorian footballer who played for Chelsea and is considered one of the greatest African players of all time?",
+    "options": ["Samuel Eto'o", "Didier Drogba", "Yaya Touré", "George Weah"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which African country has won the most Africa Cup of Nations titles?",
+    "options": ["Cameroon", "Ghana", "Egypt", "Nigeria"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who is the marathon world record holder from Kenya?",
+    "options": ["Eliud Kipchoge", "Kenenisa Bekele", "Haile Gebrselassie", "Wilson Kipsang"],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which South African rugby team won the Rugby World Cup in 2019 and 2023?",
+    "options": ["All Blacks", "Wallabies", "Springboks", "Pumas"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the capital of Kenya?",
+    "options": ["Mombasa", "Kisumu", "Nakuru", "Nairobi"],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which desert covers much of North Africa?",
+    "options": ["Kalahari", "Namib", "Sahara", "Gobi"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the longest river in Africa?",
+    "options": ["Congo", "Niger", "Zambezi", "Nile"],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which of these countries is an island?",
+    "options": ["Somalia", "Madagascar", "Mozambique", "Tanzania"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the capital of Nigeria?",
+    "options": ["Lagos", "Kano", "Abuja", "Ibadan"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who was the first president of an independent Kenya?",
+    "options": ["Daniel arap Moi", "Mwai Kibaki", "Jomo Kenyatta", "Uhuru Kenyatta"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which European country colonised the Democratic Republic of the Congo?",
+    "options": ["France", "Britain", "Belgium", "Portugal"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The ancient city of Carthage was located in which modern-day country?",
+    "options": ["Egypt", "Algeria", "Tunisia", "Libya"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which African country was established as a settlement for freed American slaves?",
+    "options": ["Sierra Leone", "Liberia", "Ghana", "Senegal"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who was the leader of the Zulu Kingdom in the early 19th century?",
+    "options": ["Cetshwayo", "Dingane", "Shaka", "Mpande"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which of these animals is known as the 'King of the Jungle'?",
+    "options": ["Elephant", "Rhino", "Lion", "Leopard"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What do meerkats primarily eat?",
+    "options": ["Leaves", "Fruits", "Insects", "Fish"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which African animal has the longest neck?",
+    "options": ["Ostrich", "Camel", "Giraffe", "Zebra"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is a group of lions called?",
+    "options": ["A herd", "A pride", "A pack", "A flock"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which large African mammal spends most of its day in water to stay cool?",
+    "options": ["Elephant", "Rhino", "Hippopotamus", "Buffalo"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the name of the popular Nigerian film industry?",
+    "options": ["Hollywood", "Bollywood", "Nollywood", "Tollywood"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which South African comedian became the host of The Daily Show?",
+    "options": ["Loyiso Gola", "Trevor Noah", "John Vlismas", "Riaad Moosa"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the name of the traditional East African fabric often brightly colored and printed?",
+    "options": ["Kente", "Shweshwe", "Kitenge", "Bogolan"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which Nigerian musician won a Grammy for his album 'Twice as Tall'?",
+    "options": ["Wizkid", "Davido", "Burna Boy", "Olamide"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the name of the fictional African country in the movie 'Black Panther'?",
+    "options": ["Zamunda", "Wakanda", "Genosha", "Nambia"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which African country won the Olympic gold medal in men's football in 1996?",
+    "options": ["Cameroon", "Ghana", "Nigeria", "Senegal"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who is the legendary Liberian footballer who won the Ballon d'Or in 1995?",
+    "options": ["George Weah", "Samuel Eto'o", "Didier Drogba", "Abedi Pele"],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which sport is Siya Kolisi famous for playing?",
+    "options": ["Football", "Cricket", "Rugby", "Athletics"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which country is famous for producing world-class long-distance runners alongside Kenya?",
+    "options": ["South Africa", "Nigeria", "Ethiopia", "Morocco"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The 'Rumble in the Jungle' boxing match took place in which country?",
+    "options": ["Nigeria", "Zaire (DRC)", "South Africa", "Ghana"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "medium"
+  }
+]

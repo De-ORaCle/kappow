@@ -1,0 +1,3502 @@
+[
+  {
+    "text": "What is 18 + 80?",
+    "options": [
+      "88",
+      "108",
+      "100",
+      "98"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 40 + 64?",
+    "options": [
+      "114",
+      "104",
+      "94",
+      "106"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 28 + 16?",
+    "options": [
+      "44",
+      "54",
+      "46",
+      "34"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 78 + 78?",
+    "options": [
+      "158",
+      "156",
+      "146",
+      "166"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 23 + 10?",
+    "options": [
+      "43",
+      "33",
+      "35",
+      "23"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 38 + 70?",
+    "options": [
+      "108",
+      "118",
+      "98",
+      "110"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 70 + 81?",
+    "options": [
+      "153",
+      "161",
+      "151",
+      "141"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 48 + 66?",
+    "options": [
+      "114",
+      "104",
+      "124",
+      "116"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 84 + 49?",
+    "options": [
+      "123",
+      "143",
+      "135",
+      "133"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 43 + 59?",
+    "options": [
+      "92",
+      "104",
+      "112",
+      "102"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 39 + 45?",
+    "options": [
+      "84",
+      "74",
+      "94",
+      "86"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 31 + 82?",
+    "options": [
+      "123",
+      "113",
+      "115",
+      "103"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 87 + 48?",
+    "options": [
+      "135",
+      "145",
+      "137",
+      "125"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 58 + 63?",
+    "options": [
+      "123",
+      "121",
+      "131",
+      "111"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 53 + 70?",
+    "options": [
+      "123",
+      "133",
+      "125",
+      "113"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 31 - 12?",
+    "options": [
+      "20",
+      "9",
+      "19",
+      "29"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 124 - 103?",
+    "options": [
+      "11",
+      "22",
+      "21",
+      "31"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 74 - 13?",
+    "options": [
+      "61",
+      "71",
+      "62",
+      "51"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 84 - 50?",
+    "options": [
+      "24",
+      "44",
+      "35",
+      "34"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 111 - 19?",
+    "options": [
+      "82",
+      "93",
+      "92",
+      "102"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 84 - 26?",
+    "options": [
+      "58",
+      "68",
+      "48",
+      "59"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 52 - 46?",
+    "options": [
+      "-4",
+      "6",
+      "7",
+      "16"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 91 - 58?",
+    "options": [
+      "33",
+      "34",
+      "43",
+      "23"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 54 - 27?",
+    "options": [
+      "37",
+      "17",
+      "27",
+      "28"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 97 - 60?",
+    "options": [
+      "37",
+      "38",
+      "27",
+      "47"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 82 - 30?",
+    "options": [
+      "42",
+      "53",
+      "52",
+      "62"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 112 - 78?",
+    "options": [
+      "35",
+      "24",
+      "44",
+      "34"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 52 - 12?",
+    "options": [
+      "41",
+      "40",
+      "50",
+      "30"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 39 - 21?",
+    "options": [
+      "19",
+      "8",
+      "18",
+      "28"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 76 - 5?",
+    "options": [
+      "71",
+      "72",
+      "61",
+      "81"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 6 × 8?",
+    "options": [
+      "48",
+      "53",
+      "40",
+      "54"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 7 × 4?",
+    "options": [
+      "24",
+      "28",
+      "35",
+      "33"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 3 × 9?",
+    "options": [
+      "18",
+      "30",
+      "32",
+      "27"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 7 × 8?",
+    "options": [
+      "63",
+      "56",
+      "48",
+      "61"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 4 × 7?",
+    "options": [
+      "33",
+      "21",
+      "28",
+      "32"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 9 × 8?",
+    "options": [
+      "72",
+      "77",
+      "81",
+      "64"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 2 × 4?",
+    "options": [
+      "13",
+      "8",
+      "4",
+      "10"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 9 × 2?",
+    "options": [
+      "16",
+      "23",
+      "27",
+      "18"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 6 × 4?",
+    "options": [
+      "29",
+      "20",
+      "24",
+      "30"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 3 × 5?",
+    "options": [
+      "20",
+      "18",
+      "10",
+      "15"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 14 ÷ 2?",
+    "options": [
+      "9",
+      "6",
+      "8",
+      "7"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 28 ÷ 4?",
+    "options": [
+      "8",
+      "9",
+      "6",
+      "7"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 12 ÷ 3?",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "6"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 9 ÷ 3?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 24 ÷ 3?",
+    "options": [
+      "10",
+      "7",
+      "9",
+      "8"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 49 ÷ 7?",
+    "options": [
+      "9",
+      "8",
+      "6",
+      "7"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 21 ÷ 3?",
+    "options": [
+      "8",
+      "9",
+      "7",
+      "6"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 48 ÷ 6?",
+    "options": [
+      "7",
+      "9",
+      "8",
+      "10"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 20 ÷ 5?",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "5"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is 4 ÷ 2?",
+    "options": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Solve for x: 5x - 8 = 7",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Solve for x: 6x + 9 = 57",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "7"
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Solve for x: 6x + 8 = 56",
+    "options": [
+      "8",
+      "10",
+      "9",
+      "7"
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Solve for x: 4x + 5 = 29",
+    "options": [
+      "7",
+      "8",
+      "5",
+      "6"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Solve for x: 3x - 11 = 1",
+    "options": [
+      "6",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Solve for x: 7x - 7 = 49",
+    "options": [
+      "10",
+      "9",
+      "8",
+      "7"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Solve for x: 4x + 6 = 34",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "9"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Solve for x: 7x - 7 = 56",
+    "options": [
+      "9",
+      "11",
+      "10",
+      "8"
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Solve for x: 2x - 13 = 1",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "9"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Solve for x: 2x + 13 = 23",
+    "options": [
+      "4",
+      "6",
+      "5",
+      "7"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Solve for x: 3x + 7 = 31",
+    "options": [
+      "9",
+      "10",
+      "8",
+      "7"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Solve for x: 7x - 9 = 40",
+    "options": [
+      "6",
+      "9",
+      "8",
+      "7"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Solve for x: 5x - 13 = 22",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Solve for x: 3x - 5 = 4",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Solve for x: 6x - 4 = 14",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 75% of 80?",
+    "options": [
+      "120",
+      "60",
+      "50",
+      "70"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 75% of 120?",
+    "options": [
+      "100",
+      "80",
+      "180",
+      "90"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 90% of 200?",
+    "options": [
+      "170",
+      "360",
+      "190",
+      "180"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 80% of 900?",
+    "options": [
+      "730",
+      "1440",
+      "720",
+      "710"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 40% of 400?",
+    "options": [
+      "150",
+      "320",
+      "160",
+      "170"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 80% of 800?",
+    "options": [
+      "1280",
+      "630",
+      "650",
+      "640"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 40% of 900?",
+    "options": [
+      "720",
+      "350",
+      "360",
+      "370"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 20% of 800?",
+    "options": [
+      "150",
+      "170",
+      "160",
+      "320"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 40% of 200?",
+    "options": [
+      "160",
+      "70",
+      "80",
+      "90"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 10% of 400?",
+    "options": [
+      "30",
+      "50",
+      "40",
+      "80"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 20% of 900?",
+    "options": [
+      "190",
+      "360",
+      "170",
+      "180"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 90% of 500?",
+    "options": [
+      "900",
+      "450",
+      "460",
+      "440"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 80% of 400?",
+    "options": [
+      "320",
+      "330",
+      "640",
+      "310"
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 20% of 600?",
+    "options": [
+      "120",
+      "240",
+      "130",
+      "110"
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 80% of 100?",
+    "options": [
+      "160",
+      "90",
+      "70",
+      "80"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the area of a rectangle with length 10 cm and width 6 cm?",
+    "options": [
+      "16 cm²",
+      "32 cm²",
+      "60 cm²",
+      "65 cm²"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the area of a rectangle with length 11 cm and width 9 cm?",
+    "options": [
+      "20 cm²",
+      "99 cm²",
+      "40 cm²",
+      "104 cm²"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the area of a rectangle with length 5 cm and width 4 cm?",
+    "options": [
+      "18 cm²",
+      "9 cm²",
+      "20 cm²",
+      "25 cm²"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the area of a rectangle with length 5 cm and width 3 cm?",
+    "options": [
+      "8 cm²",
+      "15 cm²",
+      "16 cm²",
+      "20 cm²"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the area of a rectangle with length 7 cm and width 7 cm?",
+    "options": [
+      "14 cm²",
+      "28 cm²",
+      "54 cm²",
+      "49 cm²"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the area of a rectangle with length 10 cm and width 3 cm?",
+    "options": [
+      "26 cm²",
+      "30 cm²",
+      "13 cm²",
+      "35 cm²"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the area of a rectangle with length 5 cm and width 5 cm?",
+    "options": [
+      "25 cm²",
+      "10 cm²",
+      "30 cm²",
+      "20 cm²"
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the perimeter of a rectangle with length 10 cm and width 3 cm?",
+    "options": [
+      "30 cm²",
+      "22 cm²",
+      "13 cm²",
+      "26 cm²"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the perimeter of a rectangle with length 6 cm and width 3 cm?",
+    "options": [
+      "9 cm²",
+      "18 cm²",
+      "22 cm²",
+      "14 cm²"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the area of a rectangle with length 10 cm and width 4 cm?",
+    "options": [
+      "28 cm²",
+      "40 cm²",
+      "45 cm²",
+      "14 cm²"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 3/5 of 40?",
+    "options": [
+      "24",
+      "27",
+      "16",
+      "32"
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 4/6 of 36?",
+    "options": [
+      "18",
+      "30",
+      "28",
+      "24"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 2/4 of 16?",
+    "options": [
+      "12",
+      "8",
+      "10",
+      "4"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 4/6 of 48?",
+    "options": [
+      "32",
+      "36",
+      "24",
+      "40"
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 1/3 of 21?",
+    "options": [
+      "8",
+      "14",
+      "7",
+      "0"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 3/4 of 12?",
+    "options": [
+      "6",
+      "9",
+      "18",
+      "12"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 1/4 of 28?",
+    "options": [
+      "14",
+      "7",
+      "0",
+      "8"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 5/7 of 28?",
+    "options": [
+      "20",
+      "24",
+      "25",
+      "16"
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 3/7 of 42?",
+    "options": [
+      "12",
+      "24",
+      "21",
+      "18"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is 4/5 of 30?",
+    "options": [
+      "18",
+      "24",
+      "28",
+      "30"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 30,
+    "category": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the next number in the sequence: 2, 4, 8, 16, ...?",
+    "options": [
+      "30",
+      "64",
+      "32",
+      "24"
+    ],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the next number in the sequence: 3, 9, 27, 81, ...?",
+    "options": [
+      "729",
+      "108",
+      "243",
+      "162"
+    ],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the next number in the sequence: 1, 4, 9, 16, 25, ...?",
+    "options": [
+      "35",
+      "36",
+      "49",
+      "30"
+    ],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the next number in the sequence: 4, 9, 16, 25, 36, ...?",
+    "options": [
+      "49",
+      "64",
+      "48",
+      "45"
+    ],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the next number in the sequence: 1, 1, 2, 3, 5, 8, ...?",
+    "options": [
+      "12",
+      "11",
+      "10",
+      "13"
+    ],
+    "correct_answer_index": 3,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the next number in the sequence: 1, 2, 3, 5, 8, 13, ...?",
+    "options": [
+      "19",
+      "20",
+      "18",
+      "21"
+    ],
+    "correct_answer_index": 3,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the next number in the sequence: 2, 3, 5, 7, 11, ...?",
+    "options": [
+      "13",
+      "15",
+      "14",
+      "12"
+    ],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the next number in the sequence: 3, 5, 7, 11, 13, ...?",
+    "options": [
+      "17",
+      "15",
+      "16",
+      "19"
+    ],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "If x² = 144, what is the positive value of x?",
+    "options": [
+      "12",
+      "10",
+      "24",
+      "14"
+    ],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "If x² = 169, what is the positive value of x?",
+    "options": [
+      "17",
+      "14",
+      "15",
+      "13"
+    ],
+    "correct_answer_index": 3,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "If x² = 225, what is the positive value of x?",
+    "options": [
+      "5",
+      "12",
+      "15",
+      "25"
+    ],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Solve for x: x² - 10 = 26",
+    "options": [
+      "4",
+      "6",
+      "36",
+      "8"
+    ],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Solve for x: x² - 5 = 95",
+    "options": [
+      "100",
+      "11",
+      "9",
+      "10"
+    ],
+    "correct_answer_index": 3,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "If 2^x = 64, what is the value of x?",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "If 2^x = 128, what is the value of x?",
+    "options": [
+      "9",
+      "7",
+      "6",
+      "8"
+    ],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "If 3^x = 81, what is the value of x?",
+    "options": [
+      "5",
+      "9",
+      "4",
+      "3"
+    ],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "A shirt is discounted by 20%. If the sale price is $40, what was the original price?",
+    "options": [
+      "$45",
+      "$60",
+      "$50",
+      "$48"
+    ],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "A laptop is discounted by 15%. If the sale price is $340, what was the original price?",
+    "options": [
+      "$380",
+      "$390",
+      "$420",
+      "$400"
+    ],
+    "correct_answer_index": 3,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "A bag contains 3 red balls and 5 blue balls. If you draw one ball at random, what is the probability of drawing a red ball?",
+    "options": [
+      "1/2",
+      "3/5",
+      "3/8",
+      "5/8"
+    ],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "If a car travels at a constant speed of 60 mph, how many miles does it travel in 45 minutes?",
+    "options": [
+      "40 miles",
+      "30 miles",
+      "45 miles",
+      "50 miles"
+    ],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "If a car travels at a constant speed of 80 mph, how many miles does it travel in 45 minutes?",
+    "options": [
+      "60 miles",
+      "50 miles",
+      "70 miles",
+      "40 miles"
+    ],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the sum of the first 10 positive integers?",
+    "options": [
+      "60",
+      "50",
+      "45",
+      "55"
+    ],
+    "correct_answer_index": 3,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the sum of the first 20 positive integers?",
+    "options": [
+      "210",
+      "200",
+      "190",
+      "220"
+    ],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "If 3x + 5 = 20, what is the value of 6x + 10?",
+    "options": [
+      "35",
+      "30",
+      "50",
+      "40"
+    ],
+    "correct_answer_index": 3,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the average (mean) of the numbers: 12, 15, 18, 21, and 24?",
+    "options": [
+      "18",
+      "17",
+      "16",
+      "19"
+    ],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 40,
+    "category": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which of the following is the correct spelling?",
+    "options": [
+      "Receipt",
+      "Receit",
+      "Recept",
+      "Reciept"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which of the following is the correct spelling?",
+    "options": [
+      "Definitely",
+      "Definitly",
+      "Definately",
+      "Definitley"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which of the following is the correct spelling?",
+    "options": [
+      "Saparate",
+      "Seprate",
+      "Seperate",
+      "Separate"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which of the following is the correct spelling?",
+    "options": [
+      "Acomodate",
+      "Acommodate",
+      "Accomodate",
+      "Accommodate"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which of the following is the correct spelling?",
+    "options": [
+      "Neccesary",
+      "Necessary",
+      "Necessery",
+      "Neccessary"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which of the following is the correct spelling?",
+    "options": [
+      "Calander",
+      "Calender",
+      "Calandar",
+      "Calendar"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which of the following is the correct spelling?",
+    "options": [
+      "Embarras",
+      "Embarass",
+      "Embaras",
+      "Embarrass"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which of the following is the correct spelling?",
+    "options": [
+      "Untill",
+      "Until",
+      "Untal",
+      "Untle"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which of the following is the correct spelling?",
+    "options": [
+      "Bissare",
+      "Bizzare",
+      "Bizarre",
+      "Bisarre"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which of the following is the correct spelling?",
+    "options": [
+      "Liasion",
+      "Liason",
+      "Liaisonn",
+      "Liaison"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is a synonym of 'Happy'?",
+    "options": [
+      "Cheerful",
+      "Gloomy",
+      "Sad",
+      "Angry"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is a synonym of 'Angry'?",
+    "options": [
+      "Peaceful",
+      "Happy",
+      "Calm",
+      "Furious"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is a synonym of 'Large'?",
+    "options": [
+      "Tiny",
+      "Short",
+      "Small",
+      "Huge"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is a synonym of 'Quick'?",
+    "options": [
+      "Steady",
+      "Rapid",
+      "Heavy",
+      "Slow"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is a synonym of 'Smart'?",
+    "options": [
+      "Dull",
+      "Foolish",
+      "Slow",
+      "Intelligent"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is a synonym of 'Brave'?",
+    "options": [
+      "Fearful",
+      "Timid",
+      "Courageous",
+      "Cowardly"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is a synonym of 'Beautiful'?",
+    "options": [
+      "Plain",
+      "Ugly",
+      "Gorgeous",
+      "Rough"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is a synonym of 'Tired'?",
+    "options": [
+      "Exhausted",
+      "Energetic",
+      "Fresh",
+      "Active"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is a synonym of 'Quiet'?",
+    "options": [
+      "Silent",
+      "Noisy",
+      "Loud",
+      "Rowdy"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is a synonym of 'Sincere'?",
+    "options": [
+      "False",
+      "Genuine",
+      "Fake",
+      "Dishonest"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the antonym of 'Generous'?",
+    "options": [
+      "Helpful",
+      "Kind",
+      "Giving",
+      "Stingy"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the antonym of 'Ancient'?",
+    "options": [
+      "Old",
+      "Modern",
+      "Classic",
+      "Historic"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the antonym of 'Victory'?",
+    "options": [
+      "Triumph",
+      "Success",
+      "Defeat",
+      "Win"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the antonym of 'Ascend'?",
+    "options": [
+      "Rise",
+      "Climb",
+      "Descend",
+      "Soar"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the antonym of 'Fragile'?",
+    "options": [
+      "Delicate",
+      "Sturdy",
+      "Brittle",
+      "Weak"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the antonym of 'Optimistic'?",
+    "options": [
+      "Positive",
+      "Hopeful",
+      "Pessimistic",
+      "Cheerful"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the antonym of 'Vague'?",
+    "options": [
+      "Clear",
+      "Unclear",
+      "Fuzzy",
+      "Blurry"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the antonym of 'Hostile'?",
+    "options": [
+      "Aggressive",
+      "Friendly",
+      "Angry",
+      "Mean"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the antonym of 'Arrogant'?",
+    "options": [
+      "Boastful",
+      "Proud",
+      "Conceited",
+      "Humble"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the antonym of 'Bold'?",
+    "options": [
+      "Brave",
+      "Fearless",
+      "Daring",
+      "Timid"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Identify the pronoun in the sentence: 'She walked to the grocery store.'",
+    "options": [
+      "walked",
+      "grocery",
+      "She",
+      "store"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Identify the pronoun in the sentence: 'They bought a new house.'",
+    "options": [
+      "They",
+      "house",
+      "new",
+      "bought"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Identify the verb in the sentence: 'The children laughed out loud.'",
+    "options": [
+      "out",
+      "loud",
+      "laughed",
+      "children"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Identify the adjective in the sentence: 'A beautiful bird sang a song.'",
+    "options": [
+      "beautiful",
+      "song",
+      "sang",
+      "bird"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Identify the noun in the sentence: 'Happiness is important.'",
+    "options": [
+      "is",
+      "important",
+      "Happiness",
+      "very"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Identify the adverb in the sentence: 'He runs very quickly.'",
+    "options": [
+      "runs",
+      "very",
+      "He",
+      "quickly"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Choose the correct plural form of 'Child'.",
+    "options": [
+      "Childrens",
+      "Childes",
+      "Childs",
+      "Children"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Choose the correct plural form of 'Mouse'.",
+    "options": [
+      "Mouses",
+      "Mousees",
+      "Mices",
+      "Mice"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Choose the correct plural form of 'Tooth'.",
+    "options": [
+      "Teeth",
+      "Toothes",
+      "Tooths",
+      "Teeths"
+    ],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Choose the correct plural form of 'Goose'.",
+    "options": [
+      "Goosees",
+      "Geese",
+      "Geeses",
+      "Gooses"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Complete the sentence: 'Neither of the boys ___ finished his homework.'",
+    "options": [
+      "have",
+      "are",
+      "were",
+      "has"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Complete the sentence: 'Each of the students ___ received a booklet.'",
+    "options": [
+      "have",
+      "are",
+      "has",
+      "were"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Complete the sentence: 'The group of players ___ training hard.'",
+    "options": [
+      "are",
+      "were",
+      "be",
+      "is"
+    ],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Choose the correct article: 'She has ___ unique style.'",
+    "options": [
+      "an",
+      "a",
+      "no article needed",
+      "the"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Choose the correct article: 'He wants to buy ___ honest dog.'",
+    "options": [
+      "the",
+      "an",
+      "no article needed",
+      "a"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Complete the sentence: 'I am looking forward to ___ you.'",
+    "options": [
+      "met",
+      "meet",
+      "meeting",
+      "have met"
+    ],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Complete the sentence: 'She went to the store ___ buy some milk.'",
+    "options": [
+      "for",
+      "to",
+      "at",
+      "by"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Complete the sentence: 'They have been living here ___ five years.'",
+    "options": [
+      "while",
+      "for",
+      "since",
+      "during"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Complete the sentence: 'He has been sick ___ last Monday.'",
+    "options": [
+      "from",
+      "since",
+      "for",
+      "during"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Identify the conjunction in: 'I wanted to go, but it was raining.'",
+    "options": [
+      "raining",
+      "but",
+      "wanted",
+      "it"
+    ],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the meaning of the word 'Meticulous'?",
+    "options": [
+      "Showing great attention to detail",
+      "Fast and careless",
+      "Extremely dirty",
+      "Always late"
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the meaning of the word 'Ephemeral'?",
+    "options": [
+      "Lasting for a very short time",
+      "Intelligent",
+      "Highly emotional",
+      "Strong and durable"
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the meaning of the word 'Ubiquitous'?",
+    "options": [
+      "Extremely rare",
+      "Very quiet",
+      "Found everywhere",
+      "Highly dangerous"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the meaning of the word 'Redundant'?",
+    "options": [
+      "No longer needed or useful",
+      "Extremely valuable",
+      "Highly creative",
+      "Boring"
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the meaning of the word 'Volatile'?",
+    "options": [
+      "Slow-moving",
+      "Extremely calm",
+      "Very heavy",
+      "Liable to change rapidly and unpredictably"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the meaning of the word 'Benevolent'?",
+    "options": [
+      "Extremely wealthy",
+      "Well-meaning and kindly",
+      "Cruel and hateful",
+      "Highly intelligent"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the meaning of the word 'Candid'?",
+    "options": [
+      "Sweet and sugary",
+      "Shy and quiet",
+      "Truthful and straightforward",
+      "Deceitful and sneaky"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the meaning of the word 'Scrutinize'?",
+    "options": [
+      "Create beautifully",
+      "Examine closely and thoroughly",
+      "Ignore completely",
+      "Clean quickly"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the meaning of the word 'Mitigate'?",
+    "options": [
+      "Make worse",
+      "Make less severe, serious, or painful",
+      "Celebrate loudly",
+      "Hide away"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the meaning of the word 'Pragmatic'?",
+    "options": [
+      "Extremely artistic",
+      "Lazy",
+      "Dealing with things sensibly and realistically",
+      "Highly emotional"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the meaning of the idiom 'Bite the bullet'?",
+    "options": [
+      "Eat something hard",
+      "Make a foolish mistake",
+      "Start a fight",
+      "Face a difficult situation with courage"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the meaning of the idiom 'Spill the beans'?",
+    "options": [
+      "Tell a lie",
+      "Make a mess",
+      "Reveal a secret",
+      "Cook a meal"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the meaning of the idiom 'Break the ice'?",
+    "options": [
+      "Destroy property",
+      "Start an argument",
+      "Relieve tension in a social setting",
+      "Go swimming"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the meaning of the idiom 'Cost an arm and a leg'?",
+    "options": [
+      "Be a medical emergency",
+      "Be extremely expensive",
+      "Be extremely painful",
+      "Be a fair trade"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the meaning of the idiom 'A blessing in disguise'?",
+    "options": [
+      "A religious event",
+      "A good thing that seemed bad at first",
+      "A hidden danger",
+      "A magic trick"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the meaning of the idiom 'Under the weather'?",
+    "options": [
+      "In a safe place",
+      "Very happy",
+      "Feeling slightly unwell",
+      "Standing in the rain"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the meaning of the idiom 'Burn the midnight oil'?",
+    "options": [
+      "Cook dinner",
+      "Waste electricity",
+      "Start a fire",
+      "Work late into the night"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the meaning of the idiom 'Piece of cake'?",
+    "options": [
+      "A small portion",
+      "Something that is very easy",
+      "A delicious dessert",
+      "A difficult task"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the meaning of the idiom 'Through thick and thin'?",
+    "options": [
+      "Between two walls",
+      "In a dense forest",
+      "Under all circumstances, good or bad",
+      "Losing weight"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the meaning of the idiom 'Beat around the bush'?",
+    "options": [
+      "Sing loudly",
+      "Avoid saying what you mean directly",
+      "Hit a target",
+      "Clear some weeds"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which figure of speech is: 'The stars danced playfully in the moonlit sky'?",
+    "options": [
+      "Simile",
+      "Metaphor",
+      "Alliteration",
+      "Personification"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which figure of speech is: 'He was a lion in the fight'?",
+    "options": [
+      "Simile",
+      "Metaphor",
+      "Onomatopoeia",
+      "Hyperbole"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which figure of speech is: 'Her cheeks were red like a rose'?",
+    "options": [
+      "Metaphor",
+      "Simile",
+      "Allusion",
+      "Alliteration"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which figure of speech is: 'Peter Piper picked a peck of pickled peppers'?",
+    "options": [
+      "Assonance",
+      "Simile",
+      "Hyperbole",
+      "Alliteration"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which figure of speech is: 'I am so hungry I could eat a horse'?",
+    "options": [
+      "Hyperbole",
+      "Simile",
+      "Personification",
+      "Metaphor"
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which figure of speech is: 'The buzzing bee flew away'?",
+    "options": [
+      "Hyperbole",
+      "Metaphor",
+      "Alliteration",
+      "Onomatopoeia"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which figure of speech is: 'This is a fine mess you've got us into'?",
+    "options": [
+      "Alliteration",
+      "Simile",
+      "Metaphor",
+      "Irony"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which figure of speech is: 'Parting is such sweet sorrow'?",
+    "options": [
+      "Oxymoron",
+      "Hyperbole",
+      "Simile",
+      "Alliteration"
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which figure of speech is: 'He was a good Samaritan'?",
+    "options": [
+      "Onomatopoeia",
+      "Alliteration",
+      "Allusion",
+      "Simile"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which figure of speech is: 'The wind whispered through the trees'?",
+    "options": [
+      "Simile",
+      "Personification",
+      "Hyperbole",
+      "Metaphor"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Identify the preposition in the sentence: 'She walked through the dense forest.'",
+    "options": [
+      "through",
+      "forest",
+      "walked",
+      "dense"
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Identify the preposition in the sentence: 'The cat jumped over the fence.'",
+    "options": [
+      "cat",
+      "fence",
+      "jumped",
+      "over"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Identify the preposition in the sentence: 'He sat beside the fireplace.'",
+    "options": [
+      "He",
+      "sat",
+      "beside",
+      "fireplace"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Identify the preposition in the sentence: 'The plane flew above the clouds.'",
+    "options": [
+      "flew",
+      "clouds",
+      "plane",
+      "above"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Identify the preposition in the sentence: 'We walked along the beach.'",
+    "options": [
+      "beach",
+      "along",
+      "We",
+      "walked"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Choose the correct preposition: 'She is good ___ playing chess.'",
+    "options": [
+      "with",
+      "in",
+      "on",
+      "at"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Choose the correct preposition: 'He is interested ___ studying history.'",
+    "options": [
+      "in",
+      "at",
+      "with",
+      "on"
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Choose the correct preposition: 'They are accused ___ committing a crime.'",
+    "options": [
+      "with",
+      "by",
+      "of",
+      "for"
+    ],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Choose the correct preposition: 'She is afraid ___ spiders.'",
+    "options": [
+      "of",
+      "by",
+      "at",
+      "from"
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Choose the correct preposition: 'He congratulated me ___ my success.'",
+    "options": [
+      "for",
+      "with",
+      "at",
+      "on"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Complete the sentence: 'If I ___ you, I would take that offer.'",
+    "options": [
+      "was",
+      "were",
+      "be",
+      "am"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Complete the sentence: 'He speaks English very well, ___?'",
+    "options": [
+      "doesn't he",
+      "isn't he",
+      "hasn't he",
+      "won't he"
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Complete the sentence: 'They had already left when we ___.'",
+    "options": [
+      "arrived",
+      "arrive",
+      "were arriving",
+      "had arrived"
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Choose the correct word: 'The drug has a strong ___ on the body.'",
+    "options": [
+      "effects",
+      "affects",
+      "affect",
+      "effect"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Choose the correct word: 'How will this decision ___ our future?'",
+    "options": [
+      "affect",
+      "effect",
+      "effects",
+      "affects"
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Choose the correct word: 'Please ___ down on the sofa.'",
+    "options": [
+      "lain",
+      "lie",
+      "lay",
+      "laid"
+    ],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Choose the correct word: 'She ___ the book on the table yesterday.'",
+    "options": [
+      "lain",
+      "lie",
+      "lay",
+      "laid"
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Choose the correct punctuation mark to join independent clauses: 'I have a big test tomorrow ___ I need to study.'",
+    "options": [
+      ";",
+      "-",
+      ":",
+      ","
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which sentence uses the apostrophe correctly?",
+    "options": [
+      "The two girls' coats were wet.",
+      "The two girls coat's were wet.",
+      "The two girls coats' were wet.",
+      "The two girl's coats were wet."
+    ],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which sentence uses the apostrophe correctly?",
+    "options": [
+      "Its a beautiful day outside.",
+      "It'es a beautiful day outside.",
+      "Its' a beautiful day outside.",
+      "It's a beautiful day outside."
+    ],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 25,
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the synonym of 'Obsequious'?",
+    "options": [
+      "Sincere",
+      "Arrogant",
+      "Aggressive",
+      "Fawning"
+    ],
+    "correct_answer_index": 3,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the synonym of 'Cacophony'?",
+    "options": [
+      "Harsh sound",
+      "Beautiful music",
+      "Loud conversation",
+      "Deep silence"
+    ],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the synonym of 'Egregious'?",
+    "options": [
+      "Unremarkable",
+      "Outstandingly bad",
+      "Extremely intelligent",
+      "Very helpful"
+    ],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the synonym of 'Loquacious'?",
+    "options": [
+      "Talkative",
+      "Quiet",
+      "Highly educated",
+      "Fast-running"
+    ],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the synonym of 'Fastidious'?",
+    "options": [
+      "Careless and messy",
+      "Very attentive to detail and accuracy",
+      "Extremely lazy",
+      "Friendly"
+    ],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the synonym of 'Capricious'?",
+    "options": [
+      "Fickle",
+      "Steady",
+      "Angry",
+      "Highly determined"
+    ],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the synonym of 'Anachronism'?",
+    "options": [
+      "A mathematical equation",
+      "A historical building",
+      "Something out of its proper time",
+      "A severe illness"
+    ],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the synonym of 'Pernicious'?",
+    "options": [
+      "Noisy",
+      "Beneficial",
+      "Rare",
+      "Harmful"
+    ],
+    "correct_answer_index": 3,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Complete the analogy: 'Aura is to Person as ___ is to Flower.'",
+    "options": [
+      "Petal",
+      "Garden",
+      "Stem",
+      "Fragrance"
+    ],
+    "correct_answer_index": 3,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Complete the analogy: 'Glance is to Look as ___ is to Speak.'",
+    "options": [
+      "Shout",
+      "Whisper",
+      "Talk",
+      "Sing"
+    ],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Complete the analogy: 'Odometer is to Distance as ___ is to Air Pressure.'",
+    "options": [
+      "Scale",
+      "Barometer",
+      "Thermometer",
+      "Altimeter"
+    ],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Complete the analogy: 'Malignant is to Harmful as ___ is to Harmless.'",
+    "options": [
+      "Benevolent",
+      "Benign",
+      "Malleable",
+      "Obsolete"
+    ],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Complete the analogy: 'Penury is to Poverty as ___ is to Wealth.'",
+    "options": [
+      "Industry",
+      "Sparsity",
+      "Affluence",
+      "Greed"
+    ],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Who wrote the classic novel 'Moby-Dick'?",
+    "options": [
+      "Nathaniel Hawthorne",
+      "Herman Melville",
+      "Mark Twain",
+      "Edgar Allan Poe"
+    ],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Who wrote the dystopian novel '1984'?",
+    "options": [
+      "H.G. Wells",
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury"
+    ],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Who wrote 'The Great Gatsby'?",
+    "options": [
+      "Ernest Hemingway",
+      "William Faulkner",
+      "F. Scott Fitzgerald",
+      "John Steinbeck"
+    ],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Who wrote the epic poems 'The Iliad' and 'The Odyssey'?",
+    "options": [
+      "Virgil",
+      "Socrates",
+      "Plato",
+      "Homer"
+    ],
+    "correct_answer_index": 3,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Who is the author of 'Pride and Prejudice'?",
+    "options": [
+      "Charlotte Bronte",
+      "Mary Shelley",
+      "Jane Austen",
+      "Emily Bronte"
+    ],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "In Shakespeare's 'Hamlet', what is the name of Hamlet's mother?",
+    "options": [
+      "Portia",
+      "Gertrude",
+      "Desdemona",
+      "Ophelia"
+    ],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Choose the grammatically correct sentence.",
+    "options": [
+      "Who did you invite to the party?",
+      "To who did you invite to the party?",
+      "Whom invited you to the party?",
+      "Whom did you invite to the party?"
+    ],
+    "correct_answer_index": 3,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Choose the grammatically correct sentence.",
+    "options": [
+      "She is taller than I.",
+      "She is taller from me.",
+      "She is taller than me.",
+      "She is taller than myself."
+    ],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Choose the grammatically correct sentence.",
+    "options": [
+      "Everyone has to do his or her own work.",
+      "Everyone have to do their own work.",
+      "Everyone has to do their own work.",
+      "Everyone has to do there own work."
+    ],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Choose the grammatically correct sentence.",
+    "options": [
+      "Between we both, I don't trust him.",
+      "Between you and I, I don't trust him.",
+      "Between you and me, I don't trust him.",
+      "Between you and myself, I don't trust him."
+    ],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Choose the grammatically correct sentence.",
+    "options": [
+      "Finishing the report, the computer was shut down by him.",
+      "Having finished the report, he shut down the computer.",
+      "Having finished the report, the computer was shut down.",
+      "The report having finished, he shut down the computer."
+    ],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which of the following describes a 'split infinitive'?",
+    "options": [
+      "Boldly to go",
+      "To go boldly",
+      "Going boldly",
+      "To boldly go"
+    ],
+    "correct_answer_index": 3,
+    "points": 1500,
+    "time_limit": 30,
+    "category": "English",
+    "difficulty": "hard"
+  }
+]

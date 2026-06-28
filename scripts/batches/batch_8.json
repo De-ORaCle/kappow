@@ -1,0 +1,452 @@
+[
+  {
+    "text": "What is the largest country in South America?",
+    "options": ["Argentina", "Colombia", "Brazil", "Peru"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which mountain range separates Europe from Asia?",
+    "options": ["Alps", "Himalayas", "Ural Mountains", "Rocky Mountains"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the capital of New Zealand?",
+    "options": ["Auckland", "Wellington", "Christchurch", "Hamilton"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which U.S. state has the longest coastline?",
+    "options": ["California", "Florida", "Hawaii", "Alaska"],
+    "correct_answer_index": 3,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the longest river in Europe?",
+    "options": ["Danube", "Volga", "Rhine", "Seine"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Who was the first person to step on the Moon?",
+    "options": ["Yuri Gagarin", "Buzz Aldrin", "Neil Armstrong", "Michael Collins"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The Berlin Wall fell in which year?",
+    "options": ["1989", "1991", "1987", "1990"],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which ancient civilization lived in the region of modern-day Mesopotamia?",
+    "options": ["Sumerians", "Incas", "Mayans", "Romans"],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who was the queen of ancient Egypt famously involved with Julius Caesar and Mark Antony?",
+    "options": ["Nefertiti", "Hatshepsut", "Cleopatra", "Sobekneferu"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The industrial revolution began in which country?",
+    "options": ["USA", "Germany", "France", "Great Britain"],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the main organ of the human respiratory system?",
+    "options": ["Heart", "Lungs", "Liver", "Kidneys"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which particle has a positive electrical charge?",
+    "options": ["Electron", "Neutron", "Proton", "Photon"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What force makes things fall to the ground?",
+    "options": ["Magnetism", "Friction", "Gravity", "Inertia"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the closest star to Earth?",
+    "options": ["Sirius", "Alpha Centauri", "Proxima Centauri", "The Sun"],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who is known as the father of modern genetics?",
+    "options": ["Charles Darwin", "Gregor Mendel", "Louis Pasteur", "James Watson"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the name of the fictional town where 'Stranger Things' is set?",
+    "options": ["Riverdale", "Hawkins", "Sunnydale", "Smallville"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which artist is known for the hit song 'Shape of You'?",
+    "options": ["Justin Bieber", "Ed Sheeran", "Shawn Mendes", "Charlie Puth"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "In 'The Lord of the Rings', what is the name of the dark lord who forged the One Ring?",
+    "options": ["Saruman", "Sauron", "Morgoth", "Gollum"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which movie features the quote 'May the Force be with you'?",
+    "options": ["Star Trek", "Guardians of the Galaxy", "Star Wars", "E.T."],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who is the creator of the TV show 'The Simpsons'?",
+    "options": ["Seth MacFarlane", "Matt Groening", "Mike Judge", "Trey Parker"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "medium"
+  },
+  {
+    "text": "In American football, how many points is a touchdown worth?",
+    "options": ["3", "6", "7", "1"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which country won the first ever FIFA World Cup in 1930?",
+    "options": ["Brazil", "Argentina", "Uruguay", "Italy"],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the only sport to be played on the moon?",
+    "options": ["Tennis", "Golf", "Baseball", "Soccer"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which swimming style is not allowed in a medley relay?",
+    "options": ["Freestyle", "Breaststroke", "Dog paddle", "Butterfly"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What color jersey is worn by the leader in the Tour de France?",
+    "options": ["Green", "Yellow", "Polka Dot", "White"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which is the smallest ocean in the world?",
+    "options": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Arctic Ocean"],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The city of Istanbul spans across which two continents?",
+    "options": ["Europe and Africa", "Europe and Asia", "Asia and Africa", "Europe and North America"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the capital of Egypt?",
+    "options": ["Alexandria", "Luxor", "Cairo", "Giza"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which desert is the largest hot desert in the world?",
+    "options": ["Gobi", "Kalahari", "Arabian", "Sahara"],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the capital of Argentina?",
+    "options": ["Buenos Aires", "Cordoba", "Rosario", "Mendoza"],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who wrote the play 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which war was fought between the North and South regions of the United States?",
+    "options": ["Revolutionary War", "War of 1812", "American Civil War", "World War I"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The ancient city of Troy is located in which modern-day country?",
+    "options": ["Greece", "Italy", "Turkey", "Egypt"],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Who was the Soviet leader during the Cuban Missile Crisis?",
+    "options": ["Joseph Stalin", "Vladimir Lenin", "Nikita Khrushchev", "Mikhail Gorbachev"],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which country gifted the Statue of Liberty to the United States?",
+    "options": ["Great Britain", "France", "Spain", "Germany"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the chemical symbol for Iron?",
+    "options": ["I", "Ir", "Fe", "In"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What part of the brain controls balance and coordination?",
+    "options": ["Cerebrum", "Cerebellum", "Brain stem", "Hypothalamus"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "hard"
+  },
+  {
+    "text": "At what temperature does water boil (in Celsius at sea level)?",
+    "options": ["0", "50", "100", "212"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What type of animal is a frog?",
+    "options": ["Reptile", "Amphibian", "Mammal", "Fish"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the process of a liquid turning into a gas called?",
+    "options": ["Condensation", "Freezing", "Evaporation", "Melting"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which pop star has a fandom known as 'Swifties'?",
+    "options": ["Ariana Grande", "Katy Perry", "Taylor Swift", "Selena Gomez"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the name of the fictional African country ruled by Black Panther?",
+    "options": ["Zamunda", "Wakanda", "Genosha", "Sokovia"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which TV series features dragons, white walkers, and the Iron Throne?",
+    "options": ["The Witcher", "Lord of the Rings", "Game of Thrones", "Vikings"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the highest-selling video game console of all time?",
+    "options": ["PlayStation 2", "Nintendo DS", "Game Boy", "PlayStation 4"],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Who painted the Mona Lisa?",
+    "options": ["Michelangelo", "Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "How many rings are there in the Olympic logo?",
+    "options": ["4", "5", "6", "7"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which sport is known as the 'beautiful game'?",
+    "options": ["Tennis", "Basketball", "Soccer (Football)", "Cricket"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who is the all-time leading scorer in NBA history?",
+    "options": ["Kareem Abdul-Jabbar", "LeBron James", "Michael Jordan", "Kobe Bryant"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "text": "In cricket, what is the maximum number of runs a batsman can score from a single legal delivery without running?",
+    "options": ["4", "6", "8", "10"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which country is home to the martial art of Taekwondo?",
+    "options": ["Japan", "China", "South Korea", "Thailand"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "medium"
+  }
+]

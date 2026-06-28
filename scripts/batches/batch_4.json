@@ -1,0 +1,452 @@
+[
+  {
+    "text": "Which African country is known as the 'Pearl of Africa'?",
+    "options": ["Kenya", "Uganda", "Tanzania", "Rwanda"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the capital of Angola?",
+    "options": ["Luanda", "Maputo", "Harare", "Lusaka"],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which river forms the border between Zambia and Zimbabwe?",
+    "options": ["Congo River", "Limpopo River", "Zambezi River", "Orange River"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the highest mountain in North Africa?",
+    "options": ["Mount Toubkal", "Mount Sinai", "Jebel Marra", "Ras Dashen"],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "hard"
+  },
+  {
+    "text": "The coastal city of Mombasa is located in which country?",
+    "options": ["Tanzania", "Somalia", "Kenya", "Mozambique"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who was the legendary queen of the Ndongo and Matamba Kingdoms in modern-day Angola?",
+    "options": ["Queen Nzinga", "Queen Amina", "Queen Yaa Asantewaa", "Queen Nefertiti"],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The ancient city of Meroe, known for its pyramids, was located in which modern country?",
+    "options": ["Egypt", "Sudan", "Ethiopia", "Eritrea"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What was the name of the West African empire that preceded the Mali Empire?",
+    "options": ["Songhai Empire", "Ghana Empire", "Kanem Empire", "Oyo Empire"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The Igbo Women's War (Aba Women's Riots) took place in 1929 against British rule in which country?",
+    "options": ["Ghana", "Sierra Leone", "Nigeria", "The Gambia"],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Who was the first Prime Minister of the Democratic Republic of the Congo?",
+    "options": ["Joseph Mobutu", "Patrice Lumumba", "Laurent Kabila", "Moise Tshombe"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the primary diet of the black rhinoceros?",
+    "options": ["Grass", "Leaves and branches", "Insects", "Small mammals"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which African cat is known for its ability to leap up to 3 meters in the air to catch birds?",
+    "options": ["Leopard", "Cheetah", "Caracal", "Serval"],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "hard"
+  },
+  {
+    "text": "The 'Big Five' were originally named by...?",
+    "options": ["Conservationists", "Photographers", "Big-game hunters", "Safari guides"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which African mammal sleeps standing up?",
+    "options": ["Hippopotamus", "Elephant", "Giraffe", "Zebra"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The elusive Okapi is most closely related to which animal?",
+    "options": ["Zebra", "Horse", "Giraffe", "Antelope"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which Nigerian artist is known for the hit song 'Calm Down'?",
+    "options": ["Rema", "Fireboy DML", "Omah Lay", "Asake"],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the name of the famous annual film festival held in Ouagadougou, Burkina Faso?",
+    "options": ["Durban International Film Festival", "FESPACO", "Carthage Film Festival", "Nollywood Week"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Who is the creator of the popular South African comic strip 'Madam & Eve'?",
+    "options": ["Zapiro", "Stephen Francis & Rico", "Ndumiso Nyoni", "Loyiso Mkize"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which African musician was known as the 'Griot of the Universe'?",
+    "options": ["Salif Keita", "Youssou N'Dour", "Baaba Maal", "Mory Kanté"],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "hard"
+  },
+  {
+    "text": "The hit song 'Waka Waka (This Time for Africa)' featured which South African band?",
+    "options": ["Ladysmith Black Mambazo", "Freshlyground", "Mafikizolo", "Mango Groove"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which African country was the first to host the World Economic Forum on Africa in 1990?",
+    "options": ["Egypt", "Nigeria", "South Africa", "Morocco"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who is the legendary Moroccan athlete who holds the world record for the 1500 metres?",
+    "options": ["Hicham El Guerrouj", "Saïd Aouita", "Noureddine Morceli", "Kenenisa Bekele"],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The 'Indomitable Lions' is the nickname for the national football team of which country?",
+    "options": ["Senegal", "Ivory Coast", "Cameroon", "Morocco"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which African country won the bronze medal in men's football at the 2016 Rio Olympics?",
+    "options": ["South Africa", "Algeria", "Nigeria", "Senegal"],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Who was the first African to play in the NBA?",
+    "options": ["Hakeem Olajuwon", "Manute Bol", "Dikembe Mutombo", "Yinka Dare"],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the capital city of Ghana?",
+    "options": ["Accra", "Kumasi", "Tamale", "Takoradi"],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which African country is known as the 'Land of a Thousand Hills'?",
+    "options": ["Burundi", "Rwanda", "Uganda", "Ethiopia"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The ancient city of Axum was located in which present-day country?",
+    "options": ["Sudan", "Eritrea", "Ethiopia", "Djibouti"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who was the leader of the Mau Mau rebellion in Kenya?",
+    "options": ["Jomo Kenyatta", "Dedan Kimathi", "Tom Mboya", "Oginga Odinga"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which animal is the national symbol of South Africa?",
+    "options": ["Lion", "Springbok", "Leopard", "Elephant"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the name of the traditional South African braai?",
+    "options": ["Barbecue", "Braai", "Nyama Choma", "Suya"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which Nigerian musician is known as the 'African Giant'?",
+    "options": ["Davido", "Wizkid", "Burna Boy", "Olamide"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who won the 1995 Rugby World Cup?",
+    "options": ["New Zealand", "Australia", "South Africa", "England"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which river flows through Cairo?",
+    "options": ["Niger", "Congo", "Nile", "Zambezi"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the main language spoken in Ethiopia?",
+    "options": ["Swahili", "Amharic", "Arabic", "Hausa"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who was the first president of Zimbabwe?",
+    "options": ["Robert Mugabe", "Joshua Nkomo", "Canaan Banana", "Ian Smith"],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which animal is the largest primate in Africa?",
+    "options": ["Chimpanzee", "Baboon", "Gorilla", "Mandrill"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the name of the popular music genre from Ghana that combines traditional rhythms with Western instruments?",
+    "options": ["Highlife", "Afrobeat", "Kwaito", "Bongo Flava"],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which African country hosted the 2023 Africa Cup of Nations?",
+    "options": ["Cameroon", "Ivory Coast", "Senegal", "Egypt"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the capital of Madagascar?",
+    "options": ["Port Louis", "Victoria", "Antananarivo", "Moroni"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who led the slave revolt in the French colony of Saint-Domingue (modern-day Haiti) but was originally from West Africa?",
+    "options": ["Toussaint Louverture", "Jean-Jacques Dessalines", "Dutty Boukman", "Henri Christophe"],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which African bird is known for its distinct call that sounds like 'Go-away'?",
+    "options": ["Grey Go-away-bird", "Lilac-breasted Roller", "African Fish Eagle", "Hornbill"],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the name of the traditional Ethiopian flatbread?",
+    "options": ["Fufu", "Injera", "Ugali", "Chapati"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who is the famous Senegalese-American singer known for 'Lonely'?",
+    "options": ["Akon", "Youssou N'Dour", "Baaba Maal", "Salif Keita"],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which country is home to the 'Super Eagles' football team?",
+    "options": ["Ghana", "Nigeria", "Senegal", "Cameroon"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the highest peak in the Atlas Mountains?",
+    "options": ["Mount Kenya", "Mount Kilimanjaro", "Mount Toubkal", "Ras Dashen"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who was the first president of Ghana?",
+    "options": ["Jomo Kenyatta", "Julius Nyerere", "Kwame Nkrumah", "Patrice Lumumba"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which African animal is known as the 'River Horse'?",
+    "options": ["Crocodile", "Hippopotamus", "Rhinoceros", "Elephant"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the popular South African street food made with a hollowed-out loaf of bread filled with curry?",
+    "options": ["Bunny Chow", "Gatsby", "Vetkoek", "Boerewors Roll"],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which female athlete from Mozambique won gold in the 800m at the 2000 Sydney Olympics?",
+    "options": ["Caster Semenya", "Maria Mutola", "Pamela Jelimo", "Kelly Holmes"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "hard"
+  }
+]

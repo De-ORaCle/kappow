@@ -1,0 +1,452 @@
+[
+  {
+    "text": "What is the capital of France?",
+    "options": ["Rome", "Madrid", "Paris", "Berlin"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which continent is the least populated?",
+    "options": ["Australia", "Antarctica", "Europe", "South America"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The Panama Canal connects the Atlantic Ocean to which other ocean?",
+    "options": ["Indian Ocean", "Pacific Ocean", "Arctic Ocean", "Southern Ocean"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the capital of South Korea?",
+    "options": ["Pyongyang", "Tokyo", "Seoul", "Beijing"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which mountain is the highest in North America?",
+    "options": ["Mount McKinley (Denali)", "Mount Logan", "Mount Whitney", "Mount Elbert"],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Who was the first President of South Africa elected in a fully representative democratic election?",
+    "options": ["F.W. de Klerk", "Nelson Mandela", "Thabo Mbeki", "Jacob Zuma"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The ancient city of Pompeii was destroyed by the eruption of which volcano?",
+    "options": ["Mount Etna", "Mount Vesuvius", "Mount St. Helens", "Krakatoa"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "In what year did the Apollo 11 moon landing take place?",
+    "options": ["1965", "1969", "1971", "1973"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who was the founder of the Mongol Empire?",
+    "options": ["Kublai Khan", "Genghis Khan", "Attila the Hun", "Alexander the Great"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which war is associated with the sinking of the RMS Lusitania?",
+    "options": ["World War I", "World War II", "Spanish-American War", "Crimean War"],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the most abundant element in the universe?",
+    "options": ["Oxygen", "Carbon", "Helium", "Hydrogen"],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "medium"
+  },
+  {
+    "text": "How many bones are there in the adult human body?",
+    "options": ["206", "210", "196", "226"],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What does a barometer measure?",
+    "options": ["Temperature", "Humidity", "Wind Speed", "Atmospheric Pressure"],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the hardest naturally occurring substance on Earth?",
+    "options": ["Quartz", "Topaz", "Diamond", "Corundum"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which planet is famous for its large ring system?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who played the character of Harry Potter in the film series?",
+    "options": ["Elijah Wood", "Daniel Radcliffe", "Rupert Grint", "Tom Felton"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What was the first music video played on MTV?",
+    "options": ["Thriller", "Video Killed the Radio Star", "Money for Nothing", "Take On Me"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which artist is known as the 'King of Pop'?",
+    "options": ["Elvis Presley", "Prince", "Michael Jackson", "Madonna"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "In the anime 'Dragon Ball Z', who is the main protagonist?",
+    "options": ["Vegeta", "Piccolo", "Gohan", "Goku"],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which TV show features a group of friends living in Pasadena, including a theoretical physicist named Sheldon?",
+    "options": ["How I Met Your Mother", "The Big Bang Theory", "Friends", "New Girl"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which sport is played on a pitch with a bat and a ball, and features wickets?",
+    "options": ["Baseball", "Golf", "Cricket", "Tennis"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "How many points is a three-pointer worth in basketball?",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "In which city were the 2000 Summer Olympics held?",
+    "options": ["Atlanta", "Sydney", "Athens", "Beijing"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the name of the championship series in Major League Baseball?",
+    "options": ["The Super Bowl", "The World Cup", "The World Series", "The Stanley Cup"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who is the legendary sprinter known as the fastest man alive?",
+    "options": ["Carl Lewis", "Justin Gatlin", "Tyson Gay", "Usain Bolt"],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the capital of Italy?",
+    "options": ["Venice", "Milan", "Rome", "Florence"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which ocean lies on the east coast of the United States?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The Amazon Rainforest is primarily located in which country?",
+    "options": ["Colombia", "Peru", "Brazil", "Venezuela"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which desert covers much of the Arabian Peninsula?",
+    "options": ["Sahara Desert", "Gobi Desert", "Arabian Desert", "Kalahari Desert"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the smallest independent country in the world?",
+    "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who was the second President of the United States?",
+    "options": ["Thomas Jefferson", "George Washington", "John Adams", "James Madison"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which ancient civilization lived in the Andes mountains of South America?",
+    "options": ["Mayans", "Incas", "Aztecs", "Olmecs"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The French Revolution began with the storming of which prison?",
+    "options": ["The Tower of London", "The Bastille", "Alcatraz", "Château d'If"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who was the leader of the Civil Rights Movement in the USA known for his 'I Have a Dream' speech?",
+    "options": ["Malcolm X", "Martin Luther King Jr.", "Rosa Parks", "John Lewis"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "In what year did the Berlin Wall fall?",
+    "options": ["1987", "1989", "1991", "1993"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Gd", "Go"],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which planet in our solar system has the most prominent rings?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Ribosome", "Mitochondria", "Chloroplast"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the speed of light?",
+    "options": ["150,000 km/s", "300,000 km/s", "450,000 km/s", "600,000 km/s"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which scientist developed the theory of general relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Galileo Galilei"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which movie features the song 'Let It Go'?",
+    "options": ["Tangled", "Moana", "Frozen", "Brave"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who is the author of the 'A Song of Ice and Fire' series?",
+    "options": ["J.R.R. Tolkien", "George R.R. Martin", "J.K. Rowling", "C.S. Lewis"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "In the Marvel universe, what is the real name of Spider-Man?",
+    "options": ["Tony Stark", "Bruce Wayne", "Peter Parker", "Clark Kent"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which artist released the album 'Lemonade' in 2016?",
+    "options": ["Rihanna", "Adele", "Beyoncé", "Taylor Swift"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the name of the fictional town in 'The Simpsons'?",
+    "options": ["Quahog", "South Park", "Springfield", "Shelbyville"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "How many players are on a volleyball team on the court at one time?",
+    "options": ["5", "6", "7", "8"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the highest possible break in a single game of snooker (without penalties)?",
+    "options": ["147", "155", "180", "300"],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which country won the 2018 FIFA Men's World Cup?",
+    "options": ["Germany", "Brazil", "France", "Croatia"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What color is the '1 ball' in a standard game of pool?",
+    "options": ["Blue", "Yellow", "Red", "Solid Yellow"],
+    "correct_answer_index": 3,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "text": "In what sport do teams compete for the Stanley Cup?",
+    "options": ["Football", "Baseball", "Basketball", "Ice Hockey"],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  }
+]

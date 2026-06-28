@@ -1,0 +1,64 @@
+/* Design Tokens for Kapoww! */
+:root {
+  /* Playful Color Palette - High Saturation */
+  --kapoww-orange: #FF9F1C;
+  --kapoww-orange-light: #FFBF69;
+  --kapoww-orange-dark: #E88D0E;
+  
+  --kapoww-blue: #2EC4B6;
+  --kapoww-blue-light: #CBF3F0;
+  --kapoww-blue-dark: #22A094;
+  
+  --kapoww-green: #70E000;
+  --kapoww-green-light: #CCFF33;
+  --kapoww-green-dark: #4B9600;
+  
+  --kapoww-purple: #9D4EDD;
+  --kapoww-purple-light: #C77DFF;
+  --kapoww-purple-dark: #7B2CBF;
+  
+  --kapoww-pink: #FF006E;
+  --kapoww-pink-light: #FF5C8D;
+  --kapoww-pink-dark: #C90056;
+  
+  --kapoww-error: #FF0000;
+  --kapoww-success: #39FF14;
+  --kapoww-warning: #FFEA00;
+  
+  --kapoww-bg-bright: #F0F0F0;
+  --kapoww-card-bg: #FFFFFF;
+  
+  /* Borders & Highlights */
+  --border-thick: 6px solid #FFFFFF;
+  --border-thin: 3px solid #FFFFFF;
+  --glow-shine: linear-gradient(135deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0) 50%);
+  
+  --kapoww-bg-dark: #121212;
+  --kapoww-card-bg: #1E1E1E;
+  
+  /* Typography */
+  --font-heading: "Rubik One", sans-serif;
+  --font-ui: "Digitalt", sans-serif;
+  --font-body: "Fredoka", sans-serif;
+  
+  /* Layout & Spacing */
+  --radius-game: 1.5rem;
+  --radius-game-large: 2.25rem;
+  --shadow-3d: 0 8px 0px 0px rgba(0, 0, 0, 1);
+  --shadow-3d-orange: 0 8px 0px 0px #CC7000;
+  --shadow-3d-blue: 0 8px 0px 0px #337ACC;
+  --shadow-3d-green: 0 8px 0px 0px #4F9E58;
+  --shadow-3d-purple: 0 8px 0px 0px #7B3DB8;
+  
+  /* Animations */
+  --anim-middle: 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+  --anim-snap: 0.2s ease-out;
+}
+
+@font-face {
+  font-family: 'Digitalt';
+  src: url('/fonts/Digitalt.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

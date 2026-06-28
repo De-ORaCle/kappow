@@ -1,0 +1,452 @@
+[
+  {
+    "text": "What is the official language of Angola?",
+    "options": ["English", "French", "Portuguese", "Spanish"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The Great Rift Valley runs from the Middle East down to which African country?",
+    "options": ["Mozambique", "South Africa", "Madagascar", "Namibia"],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which country is bordered by Benin to the west and Cameroon to the east?",
+    "options": ["Ghana", "Nigeria", "Niger", "Togo"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which of these is the deepest lake in Africa?",
+    "options": ["Lake Victoria", "Lake Tanganyika", "Lake Albert", "Lake Kivu"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the capital of Morocco?",
+    "options": ["Casablanca", "Marrakech", "Rabat", "Fes"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which empire was ruled by Sunjata Keita in the 13th century?",
+    "options": ["Songhai Empire", "Ghana Empire", "Mali Empire", "Kanem-Bornu Empire"],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "text": "The Anglo-Boer War was fought between the British Empire and two independent Boer states in which modern country?",
+    "options": ["Namibia", "Zimbabwe", "South Africa", "Botswana"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who was the first female president of an African country (Liberia)?",
+    "options": ["Ellen Johnson Sirleaf", "Joyce Banda", "Sahle-Work Zewde", "Samia Suluhu Hassan"],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The Kingdom of Dahomey, known for its female warriors, was located in present-day...?",
+    "options": ["Togo", "Benin", "Nigeria", "Ghana"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which African leader was affectionately known as 'Madiba'?",
+    "options": ["Kofi Annan", "Julius Nyerere", "Nelson Mandela", "Desmond Tutu"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which animal is responsible for the most human deaths in Africa (excluding mosquitoes)?",
+    "options": ["Lion", "Crocodile", "Hippopotamus", "Elephant"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The 'Great Migration' sees millions of wildebeest travel between the Serengeti and which other reserve?",
+    "options": ["Kruger National Park", "Maasai Mara", "Etosha National Park", "Chobe National Park"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the African wild dog also known as?",
+    "options": ["Painted Wolf", "Hyena", "Jackal", "Dingo"],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which bird is known to build massive communal nests that can house hundreds of birds?",
+    "options": ["Sociable Weaver", "Ostrich", "Flamingo", "Hornbill"],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The Nile crocodile can reach lengths of up to...?",
+    "options": ["3 meters", "6 meters", "9 meters", "12 meters"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Who is the South African DJ known as the pioneer of the 'Gqom' genre?",
+    "options": ["Black Coffee", "DJ Lag", "Master KG", "Kabza De Small"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "hard"
+  },
+  {
+    "text": "The international hit song 'Essence' was performed by Wizkid and which other Nigerian artist?",
+    "options": ["Tems", "Tiwa Savage", "Ayra Starr", "Yemi Alade"],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "In the film 'The Lion King', what does the Swahili phrase 'Hakuna Matata' mean?",
+    "options": ["No worries", "King of the Pride", "Circle of Life", "Be Prepared"],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which Congolese singer is famous for his soukous music and extravagant outfits?",
+    "options": ["Koffi Olomide", "Fally Ipupa", "Papa Wemba", "Awilo Longomba"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which famous actress of Kenyan descent won an Oscar for her role in '12 Years a Slave'?",
+    "options": ["Lupita Nyong'o", "Danai Gurira", "Thandiwe Newton", "Letitia Wright"],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who is the legendary distance runner from Ethiopia known as the 'Emperor'?",
+    "options": ["Kenenisa Bekele", "Haile Gebrselassie", "Abebe Bikila", "Tirunesh Dibaba"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The 'Bafana Bafana' is the nickname for which country's national football team?",
+    "options": ["South Africa", "Nigeria", "Ghana", "Senegal"],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which sport is most commonly associated with the Maasai people's traditional jumping dance?",
+    "options": ["Long jump", "High jump", "Triple jump", "Pole vault"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "text": "In 2019, which African country hosted the Rugby World Cup? (Trick question)",
+    "options": ["South Africa", "Namibia", "Kenya", "None of the above"],
+    "correct_answer_index": 3,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which Senegalese football team is known as the 'Lions of Teranga'?",
+    "options": ["The National Team", "AS Pikine", "ASC Diaraf", "Génération Foot"],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the highest waterfall in Africa?",
+    "options": ["Victoria Falls", "Tugela Falls", "Ouzoud Falls", "Kalambo Falls"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which country is home to the ancient city of Carthage?",
+    "options": ["Egypt", "Algeria", "Tunisia", "Libya"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The Kalahari Desert is primarily located in which three countries?",
+    "options": ["Namibia, Botswana, South Africa", "Angola, Zambia, Zimbabwe", "Mali, Niger, Chad", "Egypt, Sudan, Libya"],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the capital of Senegal?",
+    "options": ["Bamako", "Dakar", "Conakry", "Freetown"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which body of water separates Madagascar from the African mainland?",
+    "options": ["Red Sea", "Gulf of Aden", "Mozambique Channel", "Suez Canal"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who was the founder of the modern state of Egypt?",
+    "options": ["Gamal Abdel Nasser", "Anwar Sadat", "Muhammad Ali Pasha", "King Farouk"],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "text": "The historical region of Nubia was located in which modern-day countries?",
+    "options": ["Egypt and Sudan", "Ethiopia and Somalia", "Libya and Chad", "Mali and Niger"],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which African country was known as 'Rhodesia' before its independence?",
+    "options": ["Zambia", "Zimbabwe", "Malawi", "Botswana"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What was the name of the political system of racial segregation in South Africa?",
+    "options": ["Segregation", "Apartheid", "Jim Crow", "Redlining"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The ancient city of Great Zimbabwe is believed to have been the capital of which kingdom?",
+    "options": ["Kingdom of Mutapa", "Kingdom of Mapungubwe", "Kingdom of Aksum", "Kingdom of Kongo"],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the collective noun for a group of rhinoceroses?",
+    "options": ["A herd", "A crash", "A pod", "A tower"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which African bird is known for running fast but being completely flightless?",
+    "options": ["Secretary Bird", "Kori Bustard", "Ostrich", "Guinea Fowl"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The aardvark's diet consists almost entirely of...?",
+    "options": ["Roots and tubers", "Ants and termites", "Small rodents", "Fruits and berries"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which type of African monkey is known for its highly distinctive red and blue facial coloring?",
+    "options": ["Mandrill", "Baboon", "Vervet Monkey", "Colobus Monkey"],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The pangolin is known for being covered in scales made of what material?",
+    "options": ["Bone", "Keratin", "Chitin", "Enamel"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Wildlife",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which Nigerian author wrote 'The Palm-Wine Drinkard'?",
+    "options": ["Chinua Achebe", "Wole Soyinka", "Amos Tutuola", "Cyprian Ekwensi"],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the name of the traditional East African board game played with seeds and pits?",
+    "options": ["Mancala", "Bao", "Senet", "Morabaraba"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who is the prominent South African DJ and record producer known for winning a Grammy in 2022?",
+    "options": ["DJ Maphorisa", "Black Coffee", "DJ Zinhle", "Oskido"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The 'Sapeurs' (Society of Ambiance-Makers and Elegant People) are a fashion subculture from which country?",
+    "options": ["Nigeria", "South Africa", "Republic of the Congo", "Senegal"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which Egyptian singer was known as the 'Star of the East'?",
+    "options": ["Amr Diab", "Umm Kulthum", "Sherine", "Nancy Ajram"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which African country was the first to participate in the Winter Olympics?",
+    "options": ["South Africa", "Senegal", "Egypt", "Morocco"],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Who is the Ivorian athlete who won gold in the 100m at the 2017 World Championships in Athletics?",
+    "options": ["Marie-Josée Ta Lou", "Murielle Ahouré", "Ben Youssef Meïté", "Arthur Cissé"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which country is home to the famous 'Comrades Marathon', an ultramarathon race?",
+    "options": ["Kenya", "Ethiopia", "South Africa", "Morocco"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who is the Nigerian basketball player who became an NBA legend with the Houston Rockets?",
+    "options": ["Hakeem Olajuwon", "Dikembe Mutombo", "Manute Bol", "Giannis Antetokounmpo"],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which African nation won the 2019 Africa Cup of Nations?",
+    "options": ["Senegal", "Algeria", "Nigeria", "Tunisia"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "medium"
+  }
+]

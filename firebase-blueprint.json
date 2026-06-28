@@ -1,0 +1,56 @@
+{
+  "entities": {
+    "Quiz": {
+      "title": "Quiz",
+      "description": "A quiz containing multiple questions",
+      "type": "object",
+      "properties": {
+        "title": { "type": "string", "description": "Title of the quiz" },
+        "description": { "type": "string", "description": "Description of the quiz" },
+        "questions": { "type": "array", "description": "List of questions" },
+        "creatorId": { "type": "string", "description": "UID of the creator" },
+        "createdAt": { "type": "number", "description": "Timestamp of creation" }
+      },
+      "required": ["title", "questions", "creatorId", "createdAt"]
+    },
+    "GameSession": {
+      "title": "Game Session",
+      "description": "A live game session",
+      "type": "object",
+      "properties": {
+        "quizId": { "type": "string", "description": "ID of the quiz being played" },
+        "status": { "type": "string", "enum": ["lobby", "playing", "results", "finished"] },
+        "currentQuestionIndex": { "type": "number" },
+        "questionStartTime": { "type": "number" },
+        "hostId": { "type": "string" }
+      },
+      "required": ["quizId", "status", "hostId"]
+    },
+    "Player": {
+      "title": "Player",
+      "description": "A player in a game session",
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "score": { "type": "number" },
+        "lastAnswerCorrect": { "type": "boolean" },
+        "isHost": { "type": "boolean" }
+      },
+      "required": ["name", "score", "isHost"]
+    }
+  },
+  "firestore": {
+    "/quizzes/{quizId}": {
+      "schema": "Quiz",
+      "description": "Stored quizzes"
+    },
+    "/sessions/{sessionId}": {
+      "schema": "GameSession",
+      "description": "Active game sessions"
+    },
+    "/sessions/{sessionId}/players/{playerId}": {
+      "schema": "Player",
+      "description": "Players in a session"
+    }
+  }
+}

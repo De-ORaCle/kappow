@@ -1,0 +1,452 @@
+[
+  {
+    "text": "What is the official language of Mexico?",
+    "options": ["Portuguese", "English", "Spanish", "French"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The Great Wall of China was primarily built to protect against invasions from which group?",
+    "options": ["Romans", "Japanese", "Mongols", "Indians"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which European country is shaped like a boot?",
+    "options": ["Greece", "Spain", "Italy", "Portugal"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the capital of Russia?",
+    "options": ["St. Petersburg", "Moscow", "Kiev", "Minsk"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which is the largest island in the world?",
+    "options": ["Greenland", "New Guinea", "Borneo", "Madagascar"],
+    "correct_answer_index": 0,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Who was the legendary king of Camelot?",
+    "options": ["King Henry", "King Arthur", "King Richard", "King Edward"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "In which war was the Battle of Gettysburg fought?",
+    "options": ["American Revolutionary War", "American Civil War", "World War I", "World War II"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who discovered penicillin?",
+    "options": ["Alexander Fleming", "Marie Curie", "Louis Pasteur", "Joseph Lister"],
+    "correct_answer_index": 0,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What empire was ruled by the Romanov dynasty?",
+    "options": ["Austro-Hungarian Empire", "Russian Empire", "Ottoman Empire", "British Empire"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which ancient civilization is known for its pyramids and sphinxes?",
+    "options": ["Mesopotamia", "Inca", "Maya", "Egypt"],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the study of weather called?",
+    "options": ["Geology", "Meteorology", "Astronomy", "Ecology"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What type of energy is stored in a battery?",
+    "options": ["Thermal", "Kinetic", "Chemical", "Nuclear"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What gas do humans exhale when they breathe out?",
+    "options": ["Oxygen", "Carbon Monoxide", "Carbon Dioxide", "Nitrogen"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which part of the eye controls the amount of light that enters?",
+    "options": ["Cornea", "Lens", "Retina", "Pupil"],
+    "correct_answer_index": 3,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the name of the alternate dimension in 'Stranger Things'?",
+    "options": ["The Upside Down", "The Nether", "The Void", "The Dark Place"],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who is the creator of the 'Star Wars' franchise?",
+    "options": ["Steven Spielberg", "George Lucas", "James Cameron", "Peter Jackson"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which animated show features a family with the last name Griffin?",
+    "options": ["The Simpsons", "American Dad", "Family Guy", "Bob's Burgers"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What was the first feature-length animated movie ever released by Disney?",
+    "options": ["Cinderella", "Pinocchio", "Snow White and the Seven Dwarfs", "Dumbo"],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which artist is known for the album '1989'?",
+    "options": ["Adele", "Beyonce", "Taylor Swift", "Rihanna"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which country is famous for the Haka dance performed before rugby matches?",
+    "options": ["Australia", "Fiji", "Samoa", "New Zealand"],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "text": "In bowling, what is it called when you knock down all pins in two throws?",
+    "options": ["Strike", "Spare", "Split", "Turkey"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the maximum number of clubs a golfer is allowed to carry in their bag during a round?",
+    "options": ["12", "14", "16", "18"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which of these is NOT a swimming stroke?",
+    "options": ["Freestyle", "Backstroke", "Breaststroke", "Sidestroke"],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who won the FIFA Women's World Cup in 2019?",
+    "options": ["Netherlands", "USA", "Sweden", "England"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the capital of Germany?",
+    "options": ["Munich", "Frankfurt", "Berlin", "Hamburg"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which of the following is NOT one of the Great Lakes of North America?",
+    "options": ["Huron", "Ontario", "Michigan", "Tahoe"],
+    "correct_answer_index": 3,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "South Korea", "Japan", "Thailand"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the smallest ocean in the world?",
+    "options": ["Indian", "Pacific", "Arctic", "Atlantic"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mount Everest is located on the border of which two countries?",
+    "options": ["India and China", "Nepal and China", "Nepal and India", "Bhutan and China"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Geography",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Who was the first female Prime Minister of the United Kingdom?",
+    "options": ["Theresa May", "Margaret Thatcher", "Queen Victoria", "Angela Merkel"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which civilization built the ancient city of Petra?",
+    "options": ["Romans", "Greeks", "Nabataeans", "Egyptians"],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What was the name of the first successful English colony in North America?",
+    "options": ["Roanoke", "Jamestown", "Plymouth", "Williamsburg"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which event marked the beginning of World War II in Europe?",
+    "options": ["Assassination of Archduke Franz Ferdinand", "Invasion of Poland", "Bombing of Pearl Harbor", "Signing of the Treaty of Versailles"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who was the leader of the Soviet Union from the mid-1920s until 1953?",
+    "options": ["Leon Trotsky", "Vladimir Lenin", "Joseph Stalin", "Nikita Khrushchev"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the chemical symbol for Oxygen?",
+    "options": ["Ox", "O", "O2", "Om"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Saturn", "Jupiter", "Uranus"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which part of the cell contains genetic material?",
+    "options": ["Cytoplasm", "Cell membrane", "Mitochondria", "Nucleus"],
+    "correct_answer_index": 3,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What type of rock is formed from volcanic lava?",
+    "options": ["Sedimentary", "Metamorphic", "Igneous", "Fossilized"],
+    "correct_answer_index": 2,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the unit of measurement for electrical resistance?",
+    "options": ["Volt", "Ampere", "Ohm", "Watt"],
+    "correct_answer_index": 2,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Science",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which artist painted 'The Last Supper'?",
+    "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "In the 'Harry Potter' series, what is the name of Harry's owl?",
+    "options": ["Errol", "Pigwidgeon", "Hedwig", "Crookshanks"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the name of the coffee shop in 'Friends'?",
+    "options": ["Central Perk", "Monk's Diner", "MacLaren's Pub", "The Peach Pit"],
+    "correct_answer_index": 0,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which actor plays Iron Man in the Marvel Cinematic Universe?",
+    "options": ["Chris Evans", "Chris Hemsworth", "Robert Downey Jr.", "Mark Ruffalo"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the best-selling video game of all time?",
+    "options": ["Tetris", "Minecraft", "Grand Theft Auto V", "Wii Sports"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Pop Culture",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which sport is played at Wimbledon?",
+    "options": ["Cricket", "Rugby", "Tennis", "Golf"],
+    "correct_answer_index": 2,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "text": "How many players are there on an ice hockey team on the ice during play?",
+    "options": ["5", "6", "7", "11"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is a 'bogey' in golf?",
+    "options": ["One stroke under par", "One stroke over par", "Two strokes under par", "Two strokes over par"],
+    "correct_answer_index": 1,
+    "points": 1200,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which country won the most medals in the 2008 Summer Olympics in Beijing?",
+    "options": ["China", "USA", "Russia", "Great Britain"],
+    "correct_answer_index": 1,
+    "points": 1500,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "text": "In which sport do you use a 'puck'?",
+    "options": ["Field Hockey", "Ice Hockey", "Lacrosse", "Curling"],
+    "correct_answer_index": 1,
+    "points": 1000,
+    "time_limit": 20,
+    "category": "Sports",
+    "difficulty": "easy"
+  }
+]
