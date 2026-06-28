@@ -20,7 +20,7 @@ The Host has full control over the pacing of the game. They can wait for players
 ### 🚀 Interactive Player Experience
 Players get a distraction-free, vibrant interface to answer questions. They receive instant visual and auditory feedback based on correct/incorrect answers and answer speed.
 <br/>
-<img src="./docs/images/player_view.png" alt="Player Interface" width="300"/>
+<img src="./docs/images/player_view.png" alt="Player Interface" width="800"/>
 
 ### 🏆 Dynamic Leaderboards
 Scores are calculated based on both correctness and speed. The post-game podium celebrates the top 3 players with exciting animations and confetti.
